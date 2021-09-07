@@ -5,7 +5,7 @@ Code for MALIS Project on Next-Track Music Recommendation
 
 ### Prepare data from Million Playlist Dataset
 
-‘‘‘ python prepare_data.py --path path --target_file target --train_file train --test_file test ‘‘‘
+''' python prepare_data.py --path path --target_file target --train_file train --test_file test '''
 
 ### Generate Session-Nearest Neighbor recommendations 
 
